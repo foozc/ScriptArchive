@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <localhost>localhost</localhost>
+  <port>3306</port>
+  <root>root</root>
+  <password>admin</password>
+</config>

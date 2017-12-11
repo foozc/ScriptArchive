@@ -1,0 +1,25 @@
+﻿/** 
+ *Copyright(C) 2017 by 	<companyName> Technology Co.,Ltd
+ *All rights reserved. 
+ *FileName:     	   	#SCRIPTNAME# 
+ *Author:       	   	#FUZHICHAO# 
+ *Date:         	   	#DATE# 
+ *Description: 		   	功能描述或者使用说明   
+ *History: 				修改版本记录
+*/
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME# : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+		#NOTRIM#
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		#NOTRIM#
+	}
+}
